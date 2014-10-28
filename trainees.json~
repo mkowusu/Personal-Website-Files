@@ -1,0 +1,37 @@
+{
+"status": "ok",
+"count": 4,
+"members": [
+{
+"category": "Trainee",
+"name": "Anita DeWitt",
+"year": "2017",
+"role": "iOS Trainee"
+},{
+"category": "Trainee", 
+"name": "Adam Hudson",
+"year": "2017",
+"role": "Android Trainee" 
+},{
+"category": "Trainee", 
+"name": "Renn Jervis",
+"year": "2016",
+"role": "iOS Trainee" 
+},{
+"category": "Trainee", 
+"name": "Yazan Kittaneh",
+"year": "2017",
+"role": "Android Trainee" 
+},{
+"category": "Trainee", 
+"name": "Henry Fisher",
+"year": "2018",
+"role": "iOS Trainee" 
+},{
+"category": "Trainee", 
+"name": "Ruth Wu",
+"year": "2017",
+"role": "iOS Trainee" 
+}
+]
+}

@@ -1,0 +1,24 @@
+{
+    "status": "ok",
+    "count": 2,
+    "members": [
+        {
+	    "category": "Resource Team",
+            "name": "Jarren Santos",
+            "year": "2017",
+            "role": "Community and Outreach Coordinator",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "santosja17@grinnell.edu",
+            "image": "https://itwebapps.grinnell.edu/PcardImages/moved/67447.jpg"
+        },
+         {
+	    "category": "Resource Team", 
+            "name": "Chris Lee",
+            "year": "2015",
+            "role": "UX & Design Specialist",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "leechris@grinnell.edu",
+            "image": "https://itwebapps.grinnell.edu/PcardImages/moved/93667.jpg"
+        }
+    ]
+}

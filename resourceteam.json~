@@ -1,0 +1,42 @@
+{
+    "status": "ok",
+    "count": 4,
+    "members": [
+         {
+            "category": "Resource Team",
+            "name": "Chris Lee",
+            "year": "2015",
+            "role": "UX Researcher",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "leechris@grinnell.edu",
+            "image": "https://itwebapps.grinnell.edu/PcardImages/moved/93667.jpg"
+        },
+        {
+            "category": "Resource Team",
+            "name": "Hannah Cohn",
+            "year": "2015",
+            "role": "UX Researcher",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "cohnhann@grinnell.edu",
+            "image": "https://itwebapps.grinnell.edu/PcardImages/moved/70812.jpg"
+        },
+        {
+	    "category": "Resource Team",
+            "name": "Jarren Santos",
+            "year": "2017",
+            "role": "Community and Outreach Coordinator",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "santosja17@grinnell.edu",
+            "image": "https://itwebapps.grinnell.edu/PcardImages/moved/67447.jpg"
+        },
+        {
+            "category": "Resource Team",
+            "name": "Christine Tran",
+            "year": "2016",
+            "role": "Designer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "tranchri@grinnell.edu",
+            "image": "https://itwebapps.grinnell.edu/PcardImages/moved/12507.jpg"
+        }
+    ]
+}

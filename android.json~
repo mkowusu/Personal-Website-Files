@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "count": 10,
+    "members": [
+        {
+	    "category": "Android",
+            "name": "Larry Asante-Boateng",
+            "year": "2017",
+            "role": "Junior Android Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "@grinnell.edu",
+            "image": "https://itwebapps.grinnell.edu/PcardImages/moved/96591.jpg"
+        },
+         {
+	    "category": "Android",
+            "name": "Daniel Goldberg",
+            "year": "2016",
+            "role": "Android Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "goldstein@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/danielG.png"
+        },
+        {
+	    "category": "Android",
+            "name": "Amanda Hinchman-Dominguez",
+            "year": "2017",
+            "role": "Android Junior Developer/Designer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "@grinnell.edu",
+            "image": "https://itwebapps.grinnell.edu/PcardImages/moved/80369.jpg"
+        },
+         {
+	    "category": "Android",
+            "name": "Shaun Mataire",
+            "year": "2016",
+            "role": "Junior Android Developer",
+            "cellphone": "641-XXX-XXXX",
+            "email": "@grinnell.edu",
+            "image": "https://itwebapps.grinnell.edu/PcardImages/moved/51474.jpg"
+        },
+         {
+	    "category": "Android",
+            "name": "Spencer Liberto",
+            "year": "2015",
+            "role": "Senior Android Developer/Education Overlord",
+            "cellphone": "641-XXX-XXXX",
+            "email": "liberto@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/spencer.png"
+        },
+         {
+	    "category": "Android",
+            "name": "Tiffany Nguyen",
+            "year": "2016",
+            "role": "Android Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "nguyenti@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/tiffany.png"
+        },
+	  {
+	    "category": "Android",
+            "name": "Michael Owusu",
+            "year": "2014",
+            "role": "Junior Android Developer",
+            "cellphone": "515-450-6020",
+            "email": "owusumic17@grinnell.edu",
+            "image": "https://itwebapps.grinnell.edu/PcardImages/moved/26965.jpg"
+        },
+        {
+            "category": "Android",
+            "name": "Albert Owusu-Asare",
+            "year": "2016",
+            "role": "Junior Android Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "@grinnell.edu",
+            "image": "https://itwebapps.grinnell.edu/PcardImages/moved/1623.jpg"
+        },
+         {
+	    "category": "Android",
+            "name": "Patrick Triest",
+            "year": "2015",
+            "role": "Senior Android Lead Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "triestpa@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/patrick.png"
+        },
+         {
+	    "category": "Android",
+            "name": "Samee Zahid",
+            "year": "2017",
+            "role": "Junior Android Lead Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "triestpa@grinnell.edu",
+            "image": "https://itwebapps.grinnell.edu/PcardImages/moved/48303.jpg"
+        }
+]
+
+}

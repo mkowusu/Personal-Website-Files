@@ -1,0 +1,24 @@
+{
+    "status": "ok",
+    "count": 8,
+    "alumni": [
+        {
+	    "category": "Alumni",
+            "name": "Maijid",
+            "year": "2014",
+            "role": "iOS Head",
+            "cellphone": "347-762-4543",
+            "email": "moujaled@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/maijid.png"
+        },
+         {
+	    "category": "Alumni", 
+            "name": "Colin",
+            "year": "2014",
+            "role": "Senior iOS Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "tremblay@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/colin.png"
+        }
+    ]
+}

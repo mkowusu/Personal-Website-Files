@@ -1,0 +1,48 @@
+{
+    "status": "ok",
+    "count": 4,
+    "members": [
+        {
+            "category": "iOS",
+            "name": "Ty Dewey",
+            "year": "2016",
+            "role": "Junior iOS Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "deweytyl@grinnell.edu",
+            "image":
+            "https://itwebapps.grinnell.edu/PcardImages/moved/3879.jpg",
+            "giturl": ""
+        },
+
+       {
+            "category": "iOS",
+            "name" : "Alex Mitchell",
+            "year" : 2017,
+            "role": "Junior iOS Lead Developer",
+            "cellphone": "641-990-2558",
+            "email":"mitchell17@grinnell.edu",
+            "image":"http://www.alexthemitchell.com/images/head.png",
+            "giturl": ""
+        },
+        {
+            "category": "iOS",
+            "name": "Lea Marolt Sonnenschein",
+            "year": "2015",
+            "role": "Senior iOS Lead Developer/Designer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "maroltso@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/lea.png",
+            "giturl": ""
+        },
+         {
+ 	    "category": "iOS",
+            "name": "Daniel Torres",
+            "year": "2015",
+            "role": "iOS Senior Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "torresda@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/danielT.png",
+            "giturl": ""
+        }
+]
+}

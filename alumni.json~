@@ -1,0 +1,28 @@
+{
+    "status": "ok",
+    "count": 2,
+    "alumni": [
+        {
+	    "category": "Alumni",
+            "name": "Maijid Moujaled",
+            "year": "2014",
+            "role": "iOS Head",
+            "cellphone": "347-762-4543",
+            "email": "moujaled@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/maijid.png",
+            "giturl": "https://github.com/DrJid",
+            "linkedurl": "https://www.linkedin.com/pub/maijid-moujaled/44/a42/873"
+        },
+         {
+	    "category": "Alumni", 
+            "name": "Colin Tremblay",
+            "year": "2014",
+            "role": "Senior iOS Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "tremblay@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/colin.png",
+            "giturl": "https://github.com/tremblay",
+            "linkedurl": "https://www.linkedin.com/in/colintremblay"
+        }
+    ]
+}

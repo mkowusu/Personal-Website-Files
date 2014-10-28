@@ -1,0 +1,67 @@
+{
+"status": "ok",
+"count": 4,
+"members": [
+{
+"category": "Trainee",
+"name": "Anita DeWitt",
+"year": "2017",
+"role": "iOS Trainee"
+},{
+"category": "Trainee", 
+"name": "Henry Fisher",
+"year": "2018",
+"role": "iOS Trainee" 
+},{
+"category": "Trainee",
+"name": "Alexander French",
+"year": "2017",
+"role": "iOS Trainee"
+},{
+"category": "Trainee",
+"name": "Reilly Grant",
+"year": "",
+"role": ""
+},{
+"category": "Trainee",
+"name": "Muhammad Hamza",
+"year": "",
+"role": ""
+},{
+"category": "Trainee", 
+"name": "Adam Hudson",
+"year": "2017",
+"role": "Android Trainee" 
+},{
+"category": "Trainee", 
+"name": "Renn Jervis",
+"year": "2016",
+"role": "iOS Trainee" 
+},{
+"category": "Trainee", 
+"name": "Yazan Kittaneh",
+"year": "2017",
+"role": "Android Trainee" 
+},{
+"category": "Trainee", 
+"name": "Abraham Mhaidli",
+"year": "",
+"role": "" 
+},{
+"category": "Trainee", 
+"name": "Eli Most",
+"year": "",
+"role": "Android Trainee" 
+},{
+"category": "Trainee", 
+"name": "Jimin Tan",
+"year": "",
+"role": "iOS Trainee" 
+},{
+"category": "Trainee", 
+"name": "Ruth Wu",
+"year": "2017",
+"role": "iOS Trainee" 
+}
+]
+}

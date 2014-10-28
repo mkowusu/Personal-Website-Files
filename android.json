@@ -1,0 +1,117 @@
+{
+    "status": "ok",
+    "count": 10,
+    "members": [
+        {
+	    "category": "Android",
+            "name": "Larry Asante-Boateng",
+            "year": "2017",
+            "role": "Junior Android Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "@grinnell.edu",
+            "image": "http://www.cs.grinnell.edu/~owusumic17/img/android-round.png",
+            "giturl": "https://github.com/LarryAsanteBoateng",
+            "linkedurl": "https://www.linkedin.com/in/larryboatengasante"
+        },
+         {
+	    "category": "Android",
+            "name": "Daniel Goldstein",
+            "year": "2016",
+            "role": "Android Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "goldstein@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/danielG.png",
+            "giturl": "https://github.com/goldstei1",
+            "linkedurl": "https://www.linkedin.com/pub/daniel-goldstein/64/752/468" 
+        },
+        {
+	    "category": "Android",
+            "name": "Amanda Hinchman-Dominguez",
+            "year": "2017",
+            "role": "Android Junior Developer/Designer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "hinchman17@grinnell.edu",
+            "image": "http://www.cs.grinnell.edu/~owusumic17/img/android-round.png",
+            "giturl": "https://github.com/ahinchman1",
+            "linkedurl": "https://www.linkedin.com/pub/amanda-hinchman-dominguez/a4/a7/419" 
+        },
+         {
+	    "category": "Android",
+            "name": "Shaun Mataire",
+            "year": "2016",
+            "role": "Junior Android Developer",
+            "cellphone": "641-XXX-XXXX",
+            "email": "mataires@grinnell.edu",
+            "image": "http://www.cs.grinnell.edu/~owusumic17/img/android-round.png",
+            "giturl": "https://github.com/shaun117",
+            "linkedurl": "https://www.linkedin.com/pub/shaun-mataire/76/226/46a" 
+        },
+         {
+	    "category": "Android",
+            "name": "Spencer Liberto",
+            "year": "2015",
+            "role": "Senior Android Developer/Education Overlord",
+            "cellphone": "641-XXX-XXXX",
+            "email": "liberto@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/spencer.png",
+            "giturl": "https://github.com/liberto",
+            "linkedurl": "https://www.linkedin.com/in/spencerbliberto" 
+        },
+         {
+	    "category": "Android",
+            "name": "Tiffany Nguyen",
+            "year": "2016",
+            "role": "Android Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "nguyenti@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/tiffany.png",
+            "giturl": "https://github.com/nguyenti",
+            "linkedurl": "https://www.linkedin.com/in/nguyenti" 
+        },
+	  {
+	    "category": "Android",
+            "name": "Michael Owusu",
+            "year": "2014",
+            "role": "Junior Android Developer",
+            "cellphone": "515-450-6020",
+            "email": "owusumic17@grinnell.edu",
+            "image": "http://www.cs.grinnell.edu/~owusumic17/img/333x333shot.png",
+            "giturl": "https://github.com/mkowusu",
+            "linkedurl": "https://www.linkedin.com/pub/michael-owusu/a3/403/3a1" 
+        },
+        {
+            "category": "Android",
+            "name": "Albert Owusu-Asare",
+            "year": "2016",
+            "role": "Junior Android Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "@grinnell.edu",
+            "image": "http://www.cs.grinnell.edu/~owusumic17/img/android-round.png",
+            "giturl": "https://github.com/albertowusuasare",
+            "linkedurl": "https://www.linkedin.com/pub/albert-owusu-asare/86/b01/b07" 
+        },
+        {
+            "category": "Android",
+            "name": "Patrick Triest",
+            "year": "2015",
+            "role": "Senior Android Lead Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "@grinnell.edu",
+            "image": "http://grinnellappdev.com/img/patrick.png",
+            "giturl": "https://github.com/triestpa",
+            "linkedurl": "https://www.linkedin.com/in/triestpa"
+        },
+         {
+	    "category": "Android",
+            "name": "Samee Zahid",
+            "year": "2017",
+            "role": "Junior Android Lead Developer",
+            "cellphone": "XXX-XXX-XXXX",
+            "email": "triestpa@grinnell.edu",
+            "image": "http://www.cs.grinnell.edu/~owusumic17/img/android-round.png",
+            "giturl": "https://github.com/Samee24",
+            "linkedurl": "https://www.linkedin.com/in/triestpa" 
+        }
+]
+
+}
